@@ -1,0 +1,13 @@
+HttpWebRequest request = WebRequest.Create("http://www.rankapi.net/api/v1/pagerank.json?key=ryIncGBisc3c4MNG4imNIAFqSq4FEB47gLci481qQ8spEcvd1qyszWsM04MHv1Qo&url=google.com") as HttpWebRequest;
+            using (HttpWebResponse response = request.GetResponse() as HttpWebResponse)
+            {
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    string json = null;
+                    using (var reader = new System.IO.StreamReader(response.GetResponseStream()))
+                    {
+                        json = reader.ReadToEnd();
+                    }
+                    dynamic data = Json.Decode(json);
+                }
+            }

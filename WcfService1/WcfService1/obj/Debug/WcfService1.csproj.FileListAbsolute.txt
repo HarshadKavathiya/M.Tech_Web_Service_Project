@@ -1,0 +1,23 @@
+c:\users\pgcse\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\pgcse\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\pgcse\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\pgcse\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\pgcse\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\pgcse\Documents\Visual Studio 2012\Projects\WcfService1\WcfService1\bin\System.Net.Http.Formatting.dll
+C:\Users\pgcse\Documents\Visual Studio 2012\Projects\WcfService1\WcfService1\bin\System.Net.Http.Formatting.xml
+I:\New folder (2)\WcfService1\WcfService1\bin\WcfService1.dll
+I:\New folder (2)\WcfService1\WcfService1\bin\WcfService1.pdb
+I:\New folder (2)\WcfService1\WcfService1\bin\System.Net.Http.Formatting.dll
+I:\New folder (2)\WcfService1\WcfService1\bin\System.Net.Http.Formatting.xml
+I:\New folder (2)\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+I:\New folder (2)\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+I:\New folder (2)\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\System.Net.Http.Formatting.dll
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\System.Web.Helpers.dll
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\System.Net.Http.Formatting.xml
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\bin\System.Web.Helpers.xml
+C:\Users\HARSHAD\Desktop\ws project\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
